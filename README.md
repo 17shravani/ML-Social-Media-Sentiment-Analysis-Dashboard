@@ -2,7 +2,7 @@
 
 > **An industry-grade, autonomous AI ecosystem for real-time sentiment analysis, anomaly detection, and strategic decision-making.**
 
-![Dashboard Preview](images/dashboard_preview.png) *(Note: Please add a screenshot of the dashboard here)*
+
 
 ## 🚀 Overview
 
@@ -45,44 +45,7 @@ This project bridges the gap between Data Science, Natural Language Processing (
 [Premium Streamlit Dashboard] (Real-time KPIs & Visualizations)
 ```
 
-## 📁 Folder Structure
 
-```text
-SentimentBrand-AI/
-├── backend/
-│   ├── agents/          # Multi-Agent logic
-│   ├── data/            # Synthetic data generation pipelines
-│   ├── ml_model/        # TF-IDF model training scripts
-│   └── main.py          # FastAPI backend
-├── frontend/
-│   └── app.py           # Premium Streamlit UI
-├── outputs/             # Generated datasets
-├── docs/                # Project guides and documentation
-└── requirements.txt
-```
-
-## ⚙️ Installation & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/SentimentBrand-AI.git
-   cd SentimentBrand-AI
-   ```
-2. **Create a virtual environment & install dependencies:**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   pip install -r requirements.txt
-   ```
-3. **Generate synthetic data & Train the ML Model:**
-   ```bash
-   python backend/data/data_generator.py
-   python backend/ml_model/train.py
-   ```
-4. **Launch the Intelligence Dashboard:**
-   ```bash
-   streamlit run frontend/app.py
-   ```
 
 ## 🌟 Elite Features (Startup Differentiators)
 
@@ -97,5 +60,4 @@ SentimentBrand-AI/
 - Developing industry-grade, clean, and modular code structures.
 
 ---
-**Author:** [Your Name/LinkedIn]  
-*Built as a capstone portfolio project demonstrating production-ready Data Science & AI Engineering.*
+
