@@ -1,4 +1,4 @@
-# 🧠 SentientBrand AI: Multi-Agent Social Media Intelligence Platform
+# 🧠 SentimentBrand AI: Multi-Agent Social Media Intelligence Platform
 
 > **An industry-grade, autonomous AI ecosystem for real-time sentiment analysis, anomaly detection, and strategic decision-making.**
 
@@ -6,7 +6,7 @@
 
 ## 🚀 Overview
 
-Traditional sentiment analysis is passive—it simply classifies text. **SentientBrand AI** is an active, multi-agent intelligence ecosystem designed to operate like a modern SaaS startup product. It ingests social media data, classifies sentiment in real-time, and utilizes specialized AI agents to monitor for PR anomalies and recommend business strategies autonomously.
+Traditional sentiment analysis is passive—it simply classifies text. **SentimentBrand AI** is an active, multi-agent intelligence ecosystem designed to operate like a modern SaaS startup product. It ingests social media data, classifies sentiment in real-time, and utilizes specialized AI agents to monitor for PR anomalies and recommend business strategies autonomously.
 
 This project bridges the gap between Data Science, Natural Language Processing (NLP), and Business Intelligence, providing an elite showcase of technical architecture and product thinking.
 
@@ -48,7 +48,7 @@ This project bridges the gap between Data Science, Natural Language Processing (
 ## 📁 Folder Structure
 
 ```text
-SentientBrand-AI/
+SentimentBrand-AI/
 ├── backend/
 │   ├── agents/          # Multi-Agent logic
 │   ├── data/            # Synthetic data generation pipelines
@@ -65,8 +65,8 @@ SentientBrand-AI/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/SentientBrand-AI.git
-   cd SentientBrand-AI
+   git clone https://github.com/YOUR_USERNAME/SentimentBrand-AI.git
+   cd SentimentBrand-AI
    ```
 2. **Create a virtual environment & install dependencies:**
    ```bash

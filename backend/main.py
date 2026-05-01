@@ -6,7 +6,7 @@ import os
 import json
 from agents.agent_manager import AI_Agents
 
-app = FastAPI(title="SentientBrand AI Backend")
+app = FastAPI(title="SentimentBrand AI Backend")
 
 # Load model if exists
 MODEL_DIR = "ml_model"
@@ -22,7 +22,7 @@ load_model()
 
 @app.get("/")
 def read_root():
-    return {"message": "SentientBrand AI API is running"}
+    return {"message": "SentimentBrand AI API is running"}
 
 @app.get("/predict")
 def predict_sentiment(text: str):

@@ -1,4 +1,4 @@
-# SentientBrand AI: Complete Project Guide (A to N)
+# SentimentBrand AI: Complete Project Guide (A to N)
 
 ## A. Project Explanation
 
@@ -158,20 +158,20 @@ python backend/ml_model/train.py
 ```bash
 streamlit run frontend/app.py
 ```
-*Output: A browser window will open at `localhost:8501` showing the SentientBrand Intelligence Platform.*
+*Output: A browser window will open at `localhost:8501` showing the SentimentBrand Intelligence Platform.*
 
 ---
 
 ## J. GitHub Steps
 
-1. Create a new repository on GitHub named `SentientBrand-AI-Sentiment-Analytics`.
+1. Create a new repository on GitHub named `SentimentBrand-AI-Sentiment-Analytics`.
 2. Initialize git locally:
    ```bash
    git init
    git add .
-   git commit -m "Initial commit: SentientBrand AI Architecture"
+   git commit -m "Initial commit: SentimentBrand AI Architecture"
    git branch -M main
-   git remote add origin https://github.com/YOUR_USERNAME/SentientBrand-AI-Sentiment-Analytics.git
+   git remote add origin https://github.com/YOUR_USERNAME/SentimentBrand-AI-Sentiment-Analytics.git
    git push -u origin main
    ```
 **Best Description:** "An industry-grade, multi-agent AI dashboard for real-time social media sentiment analysis."

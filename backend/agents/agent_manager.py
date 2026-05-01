@@ -62,4 +62,4 @@ class AI_Agents:
         elif "what should i do" in query or "recommendation" in query:
             return AI_Agents.decision_agent([{'sentiment': 'positive'}] * current_stats['positive'] + [{'sentiment': 'negative'}] * current_stats['negative'])
         else:
-            return "I am the SentientBrand Copilot. Ask me for a summary, why sentiment is negative, or for strategic recommendations!"
+            return "I am the SentimentBrand Copilot. Ask me for a summary, why sentiment is negative, or for strategic recommendations!"

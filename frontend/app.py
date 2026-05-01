@@ -9,7 +9,7 @@ import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from backend.agents.agent_manager import AI_Agents
 
-st.set_page_config(page_title="SentientBrand AI", layout="wide", page_icon="🧠")
+st.set_page_config(page_title="SentimentBrand AI", layout="wide", page_icon="🧠")
 
 # Custom CSS for Premium Look
 st.markdown("""
@@ -22,7 +22,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("🧠 SentientBrand AI Intelligence Platform")
+st.title("🧠 SentimentBrand AI Intelligence Platform")
 st.markdown("### Real-time Multi-Agent Social Media Analytics")
 
 # Load model for offline use
