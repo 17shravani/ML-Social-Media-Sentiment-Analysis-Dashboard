@@ -2,6 +2,7 @@
 
 > **An industry-grade, autonomous AI ecosystem for real-time sentiment analysis, anomaly detection, and strategic decision-making.**
 
+<img width="1760" height="923" alt="image" src="https://github.com/user-attachments/assets/e6a73fc7-4895-4734-b32c-5d7d28831826" />
 
 
 ## 🚀 Overview
